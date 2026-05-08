@@ -1,4 +1,4 @@
-# Grocery Customer Segmentation Dashboard
+# RFM Based Customer Segmentation Dashboard
 
 A production-style Streamlit web application that performs **RFM (Recency, Frequency, Monetary) analysis** and **K-Means clustering** on grocery transaction data to identify customer segments and generate targeted marketing campaigns.
 
