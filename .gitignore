@@ -1,0 +1,15 @@
+# Secrets — never commit
+.streamlit/secrets.toml
+
+# Runtime data
+app_data/
+__pycache__/
+
+# Environment
+.env
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
